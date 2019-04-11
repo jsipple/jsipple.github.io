@@ -19,6 +19,9 @@ a {
     text-decoration: none;
     font-size: 80px;
 }
+a:hover {
+    font-size: 100px;
+}
 li {
     width: 150px;
     height: 150px;
